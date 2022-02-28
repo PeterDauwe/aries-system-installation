@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Install Aries
+Comment=Installer for Aries
+Categories=Utility;
+Exec=pkexec /usr/bin/calamares
+Icon=arco-calamares
