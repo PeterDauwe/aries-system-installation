@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Install ArcoLinuxD
-Comment=Installer for ArcoLinuxD
-Categories=Utility;
-Exec=pkexec calamares
-Icon=arco-calamares
