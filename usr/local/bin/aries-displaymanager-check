@@ -17,7 +17,7 @@
 echo
 echo
 echo "#################################"
-echo "Start arcolinux-displaymanager-check"
+echo "Start aries-displaymanager-check"
 echo "#################################"
 echo
 
@@ -48,6 +48,6 @@ fi
 
 echo
 echo "#################################"
-echo "End arcolinux-displaymanager-check"
+echo "End aries-displaymanager-check"
 echo "#################################"
 echo
